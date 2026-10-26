@@ -55,5 +55,5 @@ To review or replicate this analysis locally, follow these steps:
 
 ## Certification Summary
 - Certification Name: Data Analyst Associate
-- Issuing Organization: [Enter the organization name, such as DataCamp or Coursera]
+- Issuing Organization: DataCamp
 - Status: Completed
